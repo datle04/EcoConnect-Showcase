@@ -27,6 +27,6 @@ A web-based dashboard allowing Systems Admins to manage Events, Volunteers and o
 ## 📸 Screenshots
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="./assets/dashboard.jpg" alt="Dashboard" width="50%">
-  <img src="./assets/users.jpg" alt="User mangement" width="50%">
+  <img src="./assets/dashboard.png" alt="Dashboard" width="50%">
+  <img src="./assets/users.png" alt="User mangement" width="50%">
 </div>
